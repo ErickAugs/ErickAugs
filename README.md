@@ -1,6 +1,6 @@
 Olá, eu sou o Erick!
-- 🔭 Hoje atuo como Analista de testes automatizados utilizando Selenium WebDriver com Java
-- 🌱 Estudando Selenium WebDriver com Java e SQL.
+- 🔭 Hoje atuo como Analista de testes automatizados utilizando Selenium WebDriver/Selenide com Java
+- 🌱 Estudando Automação Web, Java, AWS e CI/CD.
 
 <div align="center">
   <a href="https://github.com/ErickAugs">
