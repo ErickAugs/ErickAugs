@@ -1,5 +1,5 @@
 Olá, eu sou o Erick!
-- 🔭 Hoje atuo como Analista de testes automatizados utilizando Selenium WebDriver/Selenide com Java
+- 🔭 Analista de testes automatizados utilizando Selenium WebDriver/Selenide com Java e RestAssured
 - 🌱 Estudando Automação Web, Java, AWS e CI/CD.
 
 <div align="center">
